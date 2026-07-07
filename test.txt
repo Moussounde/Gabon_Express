@@ -1,5 +1,6 @@
 bonjour 
 
+version parrallele  
 
 Le principe des 3 zones
 Fichier créé/modifié  →  git add  →  git commit -m "message"
